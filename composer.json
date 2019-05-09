@@ -11,6 +11,7 @@
             "email":     "enzo@enzolutions.com",
             "homepage":  "http://enzolutions.com/"
         },
+	{
             "name":      "Drupal Console Contributors",
             "homepage":  "https://github.com/hechoendrupal/DrupalConsole/graphs/contributors"
         }
